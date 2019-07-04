@@ -1,0 +1,8 @@
+{
+  "name": "bug-ts-server-scoped-global-types-reproduce",
+  "private": true,
+  "version": "1.65.1",
+  "devDependencies": {
+    "@openui5/ts-types": "^1.65.1"
+  }
+}

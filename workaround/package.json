@@ -1,0 +1,9 @@
+{
+  "name": "bug-ts-server-scoped-global-types-workaround",
+  "private": true,
+  "version": "1.65.1",
+  "devDependencies": {
+    "@openui5/ts-types": "^1.65.1",
+    "fs-extra": "^8.1.0"
+  }
+}
